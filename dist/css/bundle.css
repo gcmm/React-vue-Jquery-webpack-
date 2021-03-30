@@ -1,0 +1,28 @@
+h1 {
+  color: red;
+}
+@charset "UTF-8";
+#container {
+  font-size: 40px;
+  color: green; }
+
+.bg, .bg1 {
+  width: 150px;
+  height: 150px;
+  background: url(../img/wallhaven-m9q5gk.jpg);
+  background-size: cover; }
+
+.bg1 {
+  background: url(../img/成果.png); }
+
+body h1 {
+  background-color: blue;
+  font-size: 30px;
+}
+
+
+div[data-v-617ab0be]{
+  font-size: 40px;
+  color: aqua
+}
+

@@ -1,0 +1,18 @@
+$fColor: green;
+
+#container {
+  font-size: 40px;
+  color    : $fColor;
+}
+
+.bg {
+  width          : 150px;
+  height         : 150px;
+  background     : url('../img/wallhaven-m9q5gk.jpg');
+  background-size: cover;
+}
+
+.bg1 {
+  @extend .bg;
+  background: url('../img/成果.png');
+}
